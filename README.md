@@ -9,8 +9,6 @@
 
 Este proyecto permite aplicar nuestros conocimientos en el uso de GitHub, mediante la implementación de un sistema.
 
-## Instalación
-
 ## Requisitos
 
 - Visual Studio Code
