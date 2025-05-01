@@ -9,12 +9,14 @@
 
 Este proyecto permite aplicar nuestros conocimientos en el uso de GitHub, mediante la implementación de un sistema.
 
-## Requisitos
+## Tecnologías utilizadas
 
-- Visual Studio Code
-- GitHub
+- HTML
+- CSS / SCSS
+- JavaScript
+- PHP
 
-## Instrucciones 
+## Clona el repositorio
 
 git clone https://github.com/aaronvasa/ProyectoHerramientasDeDesarrollo.git
 
